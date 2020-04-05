@@ -24,6 +24,7 @@ int main() {
     default:
         printf("Error! operator is not correct");
     }
-
+    printf("Thank you");
     return 0;
 }
+
